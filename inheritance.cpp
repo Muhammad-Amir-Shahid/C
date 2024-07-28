@@ -15,7 +15,7 @@ public:
 
 void func ()
 {
-    cout<<"B";
+    cout<<"B.";
 }
 
 };
