@@ -14,7 +14,7 @@ class B:public A
 public:
 void function()
 {
-    cout<<"Virtual Function";
+    cout<<"Virtual Function/";
 }
 void func ()
 {
