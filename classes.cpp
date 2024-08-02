@@ -23,6 +23,14 @@ void student::setName()
 {
     cout<<name;
 }
+void student::getRoll()
+{
+
+}
+void student::getRoll()
+{
+    
+}
 
 
 int main()
