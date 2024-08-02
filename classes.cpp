@@ -29,10 +29,16 @@ void student::getRoll()
 }
 void student::getRoll()
 {
+
+}
+void student::getSection()
+{
+
+}
+void student::setSection()
+{
     
 }
-
-
 int main()
 {
     student s;
