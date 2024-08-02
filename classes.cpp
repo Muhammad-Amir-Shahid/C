@@ -14,6 +14,21 @@ void getSection();
 void setSection();
 
 };
+void student::getName()
+{
+    cout<< "Enter Name: ";
+    cin>>name;
+}
+void student::setName()
+{
+    cout<<name;
+}
+
 
 int main()
-{return 0;}
+{
+    student s;
+    s.getName();
+    s.setName();
+    return 0;
+}
