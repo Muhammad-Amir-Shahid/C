@@ -29,6 +29,11 @@ void func ()
     cout<<"C.";
 }
 };
+class D:public B, public C
+{
+
+};
+
 void main()
 {
 B b;
