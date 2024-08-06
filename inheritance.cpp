@@ -20,7 +20,15 @@ void func ()
 }
 
 };
+class C:public B
+{
+    public:
 
+void func ()
+{
+    cout<<"C.";
+}
+};
 void main()
 {
 B b;
